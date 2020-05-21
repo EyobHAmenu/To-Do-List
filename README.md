@@ -1,0 +1,1 @@
+# ASpring Boot Application with bootstrap to track and display items in a to-do list. Each to-do item must have a name, description, priority, due date, picture, and an is-completed field. The app is developed following MVC method.
